@@ -1,5 +1,7 @@
 # Forecast Windows
 
+[Download Forecast Windows for Windows](https://github.com/polarvapourer/Forecast-Windows/releases/latest/download/ForecastWindows.exe)
+
 Does a longer shopping history give a better sales forecast? This Python
 experiment compares two predictions for each customer: one based on their
 previous 8 weeks of purchases and one based on their previous 16 weeks.
@@ -28,7 +30,7 @@ fictional shopping patterns in the script.
 
 ## Run it
 
-**Windows executable:** **Windows:** Open the [latest release](https://github.com/polarvapourer/Forecast-Windows/releases/latest), expand **Assets**, and download `ForecastWindows.exe`. Double-click it to run the forecast comparison.
+**Windows executable:** Open the [latest release](https://github.com/polarvapourer/Forecast-Windows/releases/latest), expand **Assets**, and download `ForecastWindows.exe`. Double-click it to run the forecast comparison.
 
 **Python source:** Download `Forecast_Windows.py`, open PowerShell in the
 folder containing it, and run:
