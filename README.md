@@ -28,8 +28,7 @@ fictional shopping patterns in the script.
 
 ## Run it
 
-**Windows executable:** Open Releases, download `ForecastWindows.exe` from
-Assets, and run it. This version includes Python.
+**Windows executable:** **Windows:** Open the [latest release](https://github.com/polarvapourer/Forecast-Windows/releases/latest), expand **Assets**, and download `ForecastWindows.exe`. Double-click it to run the forecast comparison.
 
 **Python source:** Download `Forecast_Windows.py`, open PowerShell in the
 folder containing it, and run:
