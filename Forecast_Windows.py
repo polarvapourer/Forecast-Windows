@@ -1,7 +1,6 @@
 # @Author: Ibrahim Bashir
 # @Date: 20 November 2026
 # @Version: 1.0.0
-# @Linkedin: www.linkedin.com/in/mohammed-ibrahim-bashir-a01962315
 # This program compares how well 8 and 16 weeks of sales history predict each customer's weekly purchases in spring and autumn.
 
 from datetime import date, timedelta
